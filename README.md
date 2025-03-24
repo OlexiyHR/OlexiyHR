@@ -9,3 +9,6 @@ Always eager to learn new technologies and improve my skills.
 - **Frameworks & Libraries**: PySpark, WPF (MVVM), ASP.NET, NumPy, Pandas  
 - **Databases**: PostgreSQL, MySQL  
 - **Other Tools**: Docker, Debian, Maven, GitHub, Cisco (мережі), Apache Tomcat
+
+- ### 📫 Connect with me:  
+https://www.linkedin.com/in/oleksii-hromiak/
